@@ -1,0 +1,22 @@
+graph TD
+A[Finca] --> B[Empresa Agraria]
+B --> C[Recursos Productivos]
+C --> D[Tierra]
+C --> E[Agricultor y Familia]
+C --> F[Capital]
+B --> G[Producto]
+B --> H[Excedente Económico]
+I[Entorno Social] --> B
+J[Compra de Insumos] --> B
+K[Producción] --> B
+L[Comercialización] --> B
+M[Financiamiento] --> B
+N[Manejo Administrativo] --> B
+O[Empresario] --> P[Contrata]
+O --> Q[Fija Objetivos]
+O --> R[Toma Decisiones]
+O --> S[Asume Riesgos]
+O --> T[Innovación]
+O --> U[Emprendimiento]
+O --> V[Inversión]
+O --> W[Beneficio Empresarial]
